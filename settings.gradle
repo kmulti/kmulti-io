@@ -1,0 +1,4 @@
+rootProject.name = 'kmulti-io'
+include ':kmulti-io-jvm'
+include ':kmulti-io-js'
+include ':kmulti-io-common'
